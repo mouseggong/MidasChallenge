@@ -15,7 +15,7 @@ Class::Class(const Class &_class)
 	m_function = _class.m_function;
 	m_key = _class.m_key;
 }
-
+//here
 Class::Class()
 {
 	m_name = _T("");
